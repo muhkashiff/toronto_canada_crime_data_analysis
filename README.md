@@ -1,1 +1,1 @@
-# City of Toronto Canada Crime Data Analysis using PySpark and Determing the Probabilty of Crime Ocurrence deploying Machine Learning Models.
+# Effective Depolyment of Resources to Prevent Crimes in the City of Toronto Canada by Analysing Crime Data using PySpark and Determing the Probabilty of Crime Ocurrence using Machine Learning Models.
